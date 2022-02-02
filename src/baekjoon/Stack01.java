@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 import java.util.Stack;
 
-//¹éÁØ 9012 °ıÈ£
+//ë°±ì¤€ 9012 ê´„í˜¸
 public class Stack01 {
 
 	public static void main(String[] args) {
